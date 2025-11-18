@@ -1,4 +1,5 @@
 **ABSTRACT**
+
 Financial markets are inherently unstable, characterised by structural breaks, regime shifts, volatility
 clustering, and persistently low signal-to-noise ratios. These conditions challenge the reliability and
 generalisability of modern machine-learning (ML) models, which are often developed under
